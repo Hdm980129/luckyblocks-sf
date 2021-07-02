@@ -372,6 +372,11 @@
                       <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
+                  <entry key="minecraft">
+                    <value>
+                      <FeaturePluginData displayName="Minecraft" pluginName="Minecraft Development" pluginId="com.demonwav.minecraft-dev" />
+                    </value>
+                  </entry>
                   <entry key="native-android-gradle">
                     <value>
                       <FeaturePluginData displayName="Native-Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
