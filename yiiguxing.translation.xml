@@ -1,0 +1,15 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="[WARNING] SlimyBees v1.0.0-UNOFFICIAL.jar, bstats-base-2.2.1.jar, bstats-bukkit-2.2.1.jar, jsr305-3.0.2.jar define 1 overlapping resource: [WARNING] - META-INFMANIFEST.MF [WARNING] maven-shade-plugin has detected that some class files are [WARNING] present in two or more JARs. When this happens, only one [WARNING] single version of the class is copied to the uber jar. [WARNING] Usually this is not harmful and you can skip these warnings, [WARNING] otherwise try to manually exclude artifacts based on [WARNING] mvn dependency:tree -Ddetail=true and the above output. [WARNING] See http:maven.apache.orgpluginsmaven-shade-plugin" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1629752169703" />
+  </component>
+</application>
