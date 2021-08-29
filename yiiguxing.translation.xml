@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The POM for de.butzlabben:1_16_FAWE:jar:1.0 is missing, no dependency information available" />
       <item value="Hello and welcome to the Armourer's Workshop source code. Note: Any time the texture that is used on the player model is referred to, (normal called the players skin) it will be called the player texture or entity texture to prevent confusion with AW skins." />
       <item value="You are using an unsupported version of ForgeGradle." />
       <item value="Could not find spigot-api-1.17.1-R0.1-SNAPSHOT.jar (org.spigotmc:spigot-api:1.17.1-R0.1-SNAPSHOT:20210818.081022-51). Searched in the following locations: https:hub.spigotmc.orgnexuscontentrepositoriessnapshotsorgspigotmcspigot-api1.17.1-R0.1-SNAPSHOTspigot-api-1.17.1-R0.1-20210818.081022-51.jar" />
@@ -8,12 +9,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629752169703" />
+    <option name="lastTrimTime" value="1630274234517" />
   </component>
 </application>
