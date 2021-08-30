@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="jar:help Display help information on maven-jar-plugin. Call mvn jar:help -Ddetail=true -Dgoal=&lt;goal-name&gt; to display parameter details. jar:jar Build a JAR from the current project. jar:sign Deprecated. As of version 2.3, this goal is no longer supported in favor of the dedicated maven-jarsigner-plugin. jar:sign-verify Deprecated. As of version 2.3, this goal is no longer supported in favor of the dedicated maven-jarsigner-plugin. jar:test-jar Build a JAR of the test classes for the current project." />
+      <item value="jar:help Display help information on maven-jar-plugin. Call mvn jar:help -Ddetail=true -Dgoal=&lt;goal-name&gt; to display parameter details. jar:jar Build a JAR from the current project. jar:sign Deprecated. As of version 2.3, this goal is no longer supported in favor of the dedicated maven-jarsigner-plugin. jar:sign-verify Deprecated. As of version 2.3, this goal is no longer supported in favor of the dedicated maven-jarsigner-plugin. jar:test-jar Build a JAR of the test classes for the current project. [INFO] ------------------------------------------------------------------------ [INFO] BUILD SUCCESS [INFO] ------------------------------------------------------------------------ [INFO] Total time: 0.937 s [INFO] Finished at: 2021-08-30T10:42:58+08:00 [INFO] ------------------------------------------------------------------------ 进程已结束，退出代码为 0" />
+      <item value="install:help Display help information on maven-install-plugin. Call mvn install:help -Ddetail=true -Dgoal=&lt;goal-name&gt; to display parameter details." />
+      <item value="install:install Installs the project's main artifact, and any other artifacts attached by other plugins in the lifecycle, to the local repository." />
+      <item value="install:install-file Installs a file in the local repository." />
+      <item value="The parameters 'file' for goal org.apache.maven.plugins:maven-install-plugin:2.4:install-file are missing or invalid" />
+      <item value="This plugin has 3 goals: install:help Display help information on maven-install-plugin. Call mvn install:help -Ddetail=true -Dgoal=&lt;goal-name&gt; to display parameter details. install:install Installs the project's main artifact, and any other artifacts attached by other plugins in the lifecycle, to the local repository. install:install-file Installs a file in the local repository." />
+      <item value="The packaging for this project did not assign a file to the build artifact" />
       <item value="The POM for de.butzlabben:1_16_FAWE:jar:1.0 is missing, no dependency information available" />
       <item value="Hello and welcome to the Armourer's Workshop source code. Note: Any time the texture that is used on the player model is referred to, (normal called the players skin) it will be called the player texture or entity texture to prevent confusion with AW skins." />
       <item value="You are using an unsupported version of ForgeGradle." />
@@ -9,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
