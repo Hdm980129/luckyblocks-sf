@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You are using an unsupported version of ForgeGradle." />
       <item value="Build file 'H:\IdeaProjects\GriefDefender-master\bukkit\build.gradle' line: 15 Plugin [id: 'maven'] was not found in any of the following sources: Try: Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights." />
       <item value="Cannot use connection to Gradle distribution 'https:services.gradle.orgdistributionsgradle-7.0-bin.zip' as it has been stopped." />
       <item value="jar:help Display help information on maven-jar-plugin. Call mvn jar:help -Ddetail=true -Dgoal=&lt;goal-name&gt; to display parameter details. jar:jar Build a JAR from the current project. jar:sign Deprecated. As of version 2.3, this goal is no longer supported in favor of the dedicated maven-jarsigner-plugin. jar:sign-verify Deprecated. As of version 2.3, this goal is no longer supported in favor of the dedicated maven-jarsigner-plugin. jar:test-jar Build a JAR of the test classes for the current project." />
@@ -13,7 +14,6 @@
       <item value="The packaging for this project did not assign a file to the build artifact" />
       <item value="The POM for de.butzlabben:1_16_FAWE:jar:1.0 is missing, no dependency information available" />
       <item value="Hello and welcome to the Armourer's Workshop source code. Note: Any time the texture that is used on the player model is referred to, (normal called the players skin) it will be called the player texture or entity texture to prevent confusion with AW skins." />
-      <item value="You are using an unsupported version of ForgeGradle." />
       <item value="Could not find spigot-api-1.17.1-R0.1-SNAPSHOT.jar (org.spigotmc:spigot-api:1.17.1-R0.1-SNAPSHOT:20210818.081022-51). Searched in the following locations: https:hub.spigotmc.orgnexuscontentrepositoriessnapshotsorgspigotmcspigot-api1.17.1-R0.1-SNAPSHOTspigot-api-1.17.1-R0.1-20210818.081022-51.jar" />
       <item value="[WARNING] SlimyBees v1.0.0-UNOFFICIAL.jar, bstats-base-2.2.1.jar, bstats-bukkit-2.2.1.jar, jsr305-3.0.2.jar define 1 overlapping resource: [WARNING] - META-INFMANIFEST.MF [WARNING] maven-shade-plugin has detected that some class files are [WARNING] present in two or more JARs. When this happens, only one [WARNING] single version of the class is copied to the uber jar. [WARNING] Usually this is not harmful and you can skip these warnings, [WARNING] otherwise try to manually exclude artifacts based on [WARNING] mvn dependency:tree -Ddetail=true and the above output. [WARNING] See http:maven.apache.orgpluginsmaven-shade-plugin" />
     </histories>
