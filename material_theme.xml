@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="premium" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="ab47bc" />
+    <option name="selectedTheme" value="PALENIGHT" />
+    <option name="userId" value="9ffe7c5:17c19f22245:-8000" />
+    <option name="version" value="6.8.2" />
+  </component>
+</application>
