@@ -108,9 +108,7 @@
         </entry>
         <entry key="com.intellij.guice">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.ideolog">
